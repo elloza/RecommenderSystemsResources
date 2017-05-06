@@ -1,4 +1,4 @@
-# RecommenderSystemsResources
+# Recommender Systems Resources
 A list of great resources of recommender systems
 
 ## Recommender systems in general
