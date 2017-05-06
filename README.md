@@ -3,7 +3,7 @@ A list of great resources of recommender systems
 
 ## Recommender systems in general
  * [Matrix Factorization Techniques for Recommender Systems - Koren 2009](https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf)
- * [CS3220 Lecture Notes: Singular Valuedecomposition and applications] (http://www.cs.cornell.edu/courses/cs3220/2010sp/notes/svd.pdf)
+ * [CS3220 Lecture Notes: Singular Valuedecomposition and applications](http://www.cs.cornell.edu/courses/cs3220/2010sp/notes/svd.pdf)
  * [7 steps machine learning with Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html/2)
  * [Movix.ai — movie recommendations with Deep Learning](https://medium.com/deep-systems/movix-ai-movie-recommendations-using-deep-learning-5903d6a31607)
 
@@ -19,5 +19,5 @@ http://blog.ethanrosenthal.com/2016/01/09/explicit-matrix-factorization-sgd-als/
 ## Tag based recommendations
 * [Slides of Tag Recommender system](https://es.slideshare.net/KarenLi27/tag-based-recommender-system)
 
-## HYBRID APPROACHES 
+## Hybrid approaches 
  * [Maciej Kula - Hybrid Recommender Systems in Python Talk](https://www.youtube.com/watch?v=EgE0DUrYmo8&feature=youtu.be)
